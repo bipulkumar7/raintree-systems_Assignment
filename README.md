@@ -6,5 +6,6 @@ wget https://raw.githubusercontent.com/bipulkumar7/raintree-systems_Assignment/m
 ```
 To generate a report:
 ```
+cd /test
 python3 report.py
 ```
